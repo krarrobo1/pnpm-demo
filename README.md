@@ -1,6 +1,6 @@
 # PNPM demo
 
-This project demonstrate the setup of pnpm workspace feature.
+This project demonstrate the setup of pnpm workspaces feature.
 
 It has an admin and client app built in React and shares code through `shared` directory.
 
